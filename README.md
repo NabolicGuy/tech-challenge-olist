@@ -93,5 +93,5 @@ Todas as regras de negócio (janela, status válidos, definição de atraso, ide
 
 - Repositório: este projeto
 - Apresentação executiva: [Google Slides](https://docs.google.com/presentation/d/1M94O8P25V-u7tfDJeuLQOqkt9C7r27lp/edit?usp=sharing)
-- Vídeo executivo (até 5 min): *link a incluir*
+- Vídeo executivo (até 5 min): [Google Drive](https://drive.google.com/file/d/1jBRgdmS1RZAXiRDXrRBZEFHOtdRVw_BQ/view?usp=sharing)
 
