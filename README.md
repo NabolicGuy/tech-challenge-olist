@@ -95,6 +95,3 @@ Todas as regras de negócio (janela, status válidos, definição de atraso, ide
 - Apresentação executiva: *link a incluir*
 - Vídeo executivo (até 5 min): *link a incluir*
 
-## Autor
-
-Paulo Medeiros
